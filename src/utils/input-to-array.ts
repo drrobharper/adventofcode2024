@@ -1,0 +1,1 @@
+export default (data: string) : string[] => data.split('\n')

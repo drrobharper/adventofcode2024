@@ -1,0 +1,1 @@
+export const removeBlankLines = (input: string[]) : string[] => input.filter(Boolean);
